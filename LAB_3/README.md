@@ -1,4 +1,13 @@
-Báo Cáo Thực Hành Quét Cổng & Nhận Diện Dịch Vụ Với Nmap
+# LAB 3 Quét Cổng & Nhận Diện Dịch Vụ Với Nmap
+
+### 1. Thông tin sinh viên
+- **Họ và tên:** Phạm Đỗ Hoàng Luân
+- **MSSV:** 1150070026
+- **Lớp:** 11_TMĐT
+- **Link Video YouTube:** https://www.youtube.com/watch?v=o5pZh010pd8
+
+---
+
 
 Tài liệu hướng dẫn chi tiết quy trình thiết lập môi trường mạng cô lập và thực hiện kỹ thuật rà quét cổng, xác định phiên bản dịch vụ sử dụng Nmap trên VMware Workstation giữa máy tấn công (Kali Linux) và máy mục tiêu (Metasploitable 2).
 
